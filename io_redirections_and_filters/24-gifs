@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRA | find -type f -name "*.gif" -printf '%b%f\n' | sort -f | cut -f 1 -d '.'
