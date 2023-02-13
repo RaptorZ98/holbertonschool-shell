@@ -1,0 +1,2 @@
+#!/bin/head
+cut -d: -f1,2 | rev | sort -g | cut -d: -f2 | head -n 11
