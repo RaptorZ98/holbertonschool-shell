@@ -1,0 +1,2 @@
+#!/bin/bash
+$(($TRUEKONWLEDGE + 128))
